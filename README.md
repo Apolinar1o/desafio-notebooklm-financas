@@ -1,3 +1,4 @@
+link do notebook: https://notebooklm.google.com/notebook/48f5b67d-ce2e-44fa-a070-7d13f47bb961
 # 📘 Guia de Estudos Inteligente: Finanças com NotebookLM
 
 Este repositório contém a documentação e os resultados do desafio de curadoria digital utilizando o **NotebookLM**. O objetivo do projeto é transformar fontes de dados brutos sobre finanças em um guia de aprendizagem estruturado, utilizando técnicas avançadas de IA Generativa.
